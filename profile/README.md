@@ -12,15 +12,11 @@ Features include *(note: most features in progress)*:
   custom statuses on tickets, and track subtickets.
 * Flexible tagging system on tickets to enable easy division of issues between
   teams. 
-* Intelligent homepage feeds which enable team members to easily view tasks they
-  should work on, or may be of interest to them.
+* Intelligent homepage feed that suggests what tickets need attention automatically
 * Team member tracking, including information such as bios.
 * Modern interfaces across all applications
-* REST API out-of-the-box for custom scripting and integration, with first-class
-  citizen support to your custom scripts - they'll interact with the tracker the
-  same way the official applications do!
+* REST API out-of-the-box for custom scripting and integration
 * Freely available under the Apache 2.0 License, enabling the flexibility to
-  freely use, modify, and redistribute the tracker in your organization, or to
-  contractors.
+  freely use, modify, and redistribute the tracker.
 
 [Read More...](https://github.com/Sluggo-Issue-Tracker/.github/blob/main/_custom/README_EXTENDED.md)
