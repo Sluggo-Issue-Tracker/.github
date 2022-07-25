@@ -23,4 +23,4 @@ Features include *(note: most features in progress)*:
   freely use, modify, and redistribute the tracker in your organization, or to
   contractors.
 
-[Read More...](../_custom/README_EXTENDED.md)
+[Read More...](https://github.com/Sluggo-Issue-Tracker/.github/blob/main/_custom/README_EXTENDED.md)
